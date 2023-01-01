@@ -1,5 +1,9 @@
-<h2> First Portfolio Website </h2>
+# Hola 👋🏽
 
-<p> Many more update and iterations to come </p>
+Hello internet users, welcome to this area, which will serve as my portfolio website's various versions as I continue to hone my front-end development skills. Already somewhat exhausted and I only uploaded the first version. 😮‍💨😮‍💨😮‍💨
 
-<p> Check out the live version of this site <a href="https://tijanayo.github.io/first_portfolio_iteration" target="_blank">here</a></p>
+<br>><br />
+
+<h2><a href="https://tijanayo.github.io/first_portfolio_iteration" target="_blank">Version 1</a></h2>
+<small> Description: </small>
+<p> The First Iteration of my porfolio website... It is not much yet just the basic barebone</p>
