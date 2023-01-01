@@ -1,0 +1,40 @@
+body {
+    background-color: #111426;
+    color: #fff;
+    font-family: monospace;
+    padding: 10px;
+    margin: 10px;
+}
+
+.main-header {
+    font-size: 45px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.header-content {
+    font-weight: bold;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.body-section {
+    margin: 20px;
+    font-size: 15px;
+}
+
+.body-content, .list-content {
+    font-weight: 600;
+}
+
+.linked-item {
+    text-decoration: none;
+    color: lightgrey;
+}
+
+img {
+    width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0;
+}
