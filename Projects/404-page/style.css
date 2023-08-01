@@ -1,0 +1,93 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 50vh;
+}
+
+.main {
+    margin: 150px;
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 63px;
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+    margin-bottom: -10px;
+    color: black;
+}
+
+p {
+    padding: 15px;
+    font-family: "eurostile", sans-serif;
+    text-transform: none;
+    letter-spacing: 2px;
+    font-size: 25px;
+}
+
+.error-button {
+    background-color: #ff4f5b;
+    color: #fff;
+    border: none;
+    outline: none;
+    position: relative;
+    cursor: pointer;
+    letter-spacing: 2px;
+    font-weight: 400;
+    width: 150px;
+}
+  
+.error-button:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    background-color: #ff4f5b;
+    transition: transform 300ms ease-in-out;
+    transform: scaleX(0);
+    transform-origin: left;
+}
+  
+.error-button:hover {
+    background: none !important;
+    box-shadow: none !important;
+}
+  
+.error-button:hover::before {
+    transform: scaleX(1);
+}
+
+.error-button-text {
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+}
+
+@keyframes moveUpAndDown {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+img {
+    height: 60vh;
+    animation-name: moveUpAndDown;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
