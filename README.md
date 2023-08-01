@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello internet users! Welcome to my frontend development portfolio. Here, I'll be sharing my journey of learning and improvement through a collection of projects I've built. As I progress, you'll find various iterations of my projects, reflecting the continuous improvement in my skills and design.
+Hello internet users! Welcome to my space. Here, I'll be sharing my journey of learning and improvement through a collection of projects I've built. As I progress, you'll find various iterations of my projects, reflecting the continuous improvement in my skills and design.
 
 The primary focus of this space is to present the projects I've worked on during my learning journey. Each project serves as a stepping stone, allowing me to explore new technologies, experiment with design, and create delightful user experiences. Whether it's a frontend interface or a backend application, each project holds a special place in my growth as a developer.
 
