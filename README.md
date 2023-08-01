@@ -1,3 +1,14 @@
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Projects](#projects)
+  - [Project 1: Portfolio v0.1](#project-1-portfolio-v01)
+  - [Project 2: 404-page](#project-2-404-page)
+  - [Project 3: Student Archive](#project-3-student-archive)
+- [About Me](#about-me)
+- [Contact](#contact)
+
 ## Introduction
 
 Hello internet users! Welcome to my space. Here, I'll be sharing my journey of learning and improvement through a collection of projects I've built. As I progress, you'll find various iterations of my projects, reflecting the continuous improvement in my skills and design.
@@ -8,29 +19,26 @@ Feel free to explore the projects listed below, each showcasing the languages an
 
 ## Projects
 
-Below are the projects I've worked on along with their descriptions and the technologies used:
-
 ### Project 1: Portfolio v0.1
 
 - **Languages/Technologies**: HTML & CSS
-- **Description**: A brief overview of the project, its goals, and the problem it aims to solve.
-<div style="display: flex; align-item: center; justify-content: center;">
-    <a href= "https://tijanayo.github.io/Portfolio_v0.1/" style="text-decoration: none; border: 1px solid white; background-color: #111426; color: white; border-radius: 20px; padding: 8px;"> View Project</a>
-</div>
+- **Description**: This is the first iteration of my portfolio webpage. Currently, it serves as a basic foundation for the improved version I plan to create. I intend to enhance and expand it to showcase my work and skills more effectively.
+  <div style="display: flex; align-items: center; justify-content: center; margin: 10px;">
+    <a href="https://tijanayo.github.io/Portfolio_v0.1/" style="text-decoration: none; border: 1px solid white; background-color: #111426; color: white; border-radius: 20px; padding: 8px;">View Project</a>
+  </div>
 
 ### Project 2: 404-page
 
 - **Languages/Technologies**: HTML & CSS
-- **Description**: A concise summary of the project, its purpose, and the impact it creates.
-<div style="display: flex; align-item: center; justify-content: center;">
-    <a href= "https://tijanayo.github.io/404-page/" style="text-decoration: none; border: 1px solid white; background-color: #111426; color: white; border-radius: 20px; padding: 8px;"> View Project</a>
-</div>
+- **Description**: "I cloned a 404 page project from a frontend development platform "[frontend Projects](https://frontendsprojects.com/404-error-page)". This project is focused on improving my styling skills and exploring CSS animation.
+  <div style="display: flex; align-items: center; justify-content: center; margin: 10px;">
+    <a href="https://tijanayo.github.io/404-page/" style="text-decoration: none; border: 1px solid white; background-color: #111426; color: white; border-radius: 20px; padding: 8px;">View Project</a>
+  </div>
 
 ### Project 3: Student Archive
 
 - **Languages/Technologies**: Node, Express.js, Typescript, Prisma
 - **Description**: More descriptive summary coming soon.
-
 
 ## About Me
 
@@ -52,4 +60,4 @@ Let's build amazing things together! 🚀
 
 ---
 
-By Tijanayo | [GitHub](https://github.com/tijanayo) | [Portfolio Website](https://tijanayo.github.io) | [Resume](https://docs.google.com/document/d/1Wnn7SElHoMo0fiotVQQUj2_hFT8tihhs/edit?usp=sharing&ouid=109455683016993082512&rtpof=true&sd=true) | [Blog](tijan.hashnode.dev)
+Tijani Ayomide | [GitHub](https://github.com/tijanayo) | [Portfolio Website](https://tijanayo.github.io) | [Resume](https://docs.google.com/document/d/1Wnn7SElHoMo0fiotVQQUj2_hFT8tihhs/edit?usp=sharing&ouid=109455683016993082512&rtpof=true&sd=true) | [Blog](tijan.hashnode.dev)
